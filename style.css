@@ -1,0 +1,13 @@
+.square {
+  //height: 20px;
+  //width: 20px;
+  padding: 0px;
+  margin: 1px;
+  background-color: blue;
+  display: inline-block;
+}
+
+.container {
+  width: 960px;
+  line-height: 1%;
+}
