@@ -11,3 +11,8 @@
   width: 960px;
   line-height: 1%;
 }
+
+.center-text{
+    text-align: center;
+    width: 960px;
+}
